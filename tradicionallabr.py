@@ -17,5 +17,5 @@ def sumarNumeros(numeroUno,numeroDos):
 numeroUno=5
 numeroDos=20
 numeroTres=50
-resultado=sumarNumeros(15,2000)
+resultado=sumarNumeros(15,20)
 print(f"La suma es: {resultado}")
